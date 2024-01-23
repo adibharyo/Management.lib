@@ -9,21 +9,14 @@
 This program is designed to record and archive books available in a bookstore. To use this program, users are expected to enter book data first by selecting the book input option in the menu. After that, users can perform other operations such as deleting, searching, and editing book entries by selecting the corresponding operation in the menu. In the print book index menu, books will be sorted based on the lowest price, and in the best-seller menu, books will be sorted based on the highest number of copies sold. Users can also sell books and determine the profit obtained by selecting the menu options provided in the program.
 	
 ## Function
-### Main Menu
-	
-### Print Index
-
-### Find Book
-
-### Edit Index
-
-### Delete Book
-
-### Sales Recording
-	
-### Revenue Calculator
-
-### Best Seller
+- Main Menu
+- Print Index
+- Find Book
+- Edit Index
+- Delete Book
+- Sales Recording
+- Revenue Calculator
+- Best Seller
 
 
 
